@@ -9,15 +9,9 @@ A simple Flutter app that converts Pakistani Rupees (PKR) to other currencies.
 * Error handling for invalid input
 * Theme switching (light/dark mode)
 
-## Requirements
 
-* Flutter SDK
-* Android or iOS device/emulator
-
-## Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/currency-converter-app.git`
-2. Navigate to the project directory: `cd currency-converter-app`
+1. Clone the repository: `git clone https://github.com/eshwarlal1242/currency_converter_app`
+2. Navigate to the project directory: `cd currency_converter_app`
 3. Get dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
@@ -32,7 +26,7 @@ This project is licensed under the MIT License.
 
 ## Authors
 
-* [Your Name](https://github.com/your-username)
+* [Your Name](https://github.com/eshwarlal1242/)
 
 ## Acknowledgments
 
